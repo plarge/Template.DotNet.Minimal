@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4A418D89
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.DotNet.Simple.Net6Lib", "sources\Template.DotNet.Simple.Net6Lib\Template.DotNet.Simple.Net6Lib.csproj", "{D7502597-EECF-4693-9663-72D9F8EA8CC9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1Template.DotNet.Simple.Net6Lib.Tests.Unit", "tests\TestProject1Template.DotNet.Simple.Net6Lib.Tests.Unit\TestProject1Template.DotNet.Simple.Net6Lib.Tests.Unit.csproj", "{2388BDE6-34E1-4544-AD6A-32012B8676CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.DotNet.Simple.Net6Lib.Tests.Unit", "tests\Template.DotNet.Simple.Net6Lib.Tests.Unit\Template.DotNet.Simple.Net6Lib.Tests.Unit.csproj", "{2388BDE6-34E1-4544-AD6A-32012B8676CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
