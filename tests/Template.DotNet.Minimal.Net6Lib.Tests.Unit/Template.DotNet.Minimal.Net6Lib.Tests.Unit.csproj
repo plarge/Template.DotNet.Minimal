@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\sources\Template.DotNet.Simple.Net6Lib\Template.DotNet.Simple.Net6Lib.csproj" />
+    <ProjectReference Include="..\..\sources\Template.DotNet.Minimal.Net6Lib\Template.DotNet.Minimal.Net6Lib.csproj" />
   </ItemGroup>
 
 </Project>

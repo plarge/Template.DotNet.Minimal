@@ -1,4 +1,4 @@
-# Template.DotNet.Simple
+# Template.DotNet.Minimal
 
 This repository defines a simple **.NET project template**.
 

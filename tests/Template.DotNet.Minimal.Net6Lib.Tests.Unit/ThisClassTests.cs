@@ -1,6 +1,6 @@
 using NFluent;
 
-namespace Template.DotNet.Simple.Net6Lib.Tests.Unit;
+namespace Template.DotNet.Minimal.Net6Lib.Tests.Unit;
 
 public class ThisClassTests
 {

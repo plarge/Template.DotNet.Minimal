@@ -1,4 +1,4 @@
-﻿namespace Template.DotNet.Simple.Net6Lib;
+﻿namespace Template.DotNet.Minimal.Net6Lib;
 
 public class ThisClass
 {
