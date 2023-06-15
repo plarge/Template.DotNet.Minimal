@@ -7,7 +7,7 @@ This repository defines a simple **.NET project template**.
 The template contains two main parts:
 
 - **Documentation** is located in the '_docs_' folder;
-- **Source code** files are in the '_code_' folder;
+- **Source code** files are organized like this:
   - Main source files are in the '_sources_' subfolder;
   - Test source files are in the '_tests_' subfolder;
 
